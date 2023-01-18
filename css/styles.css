@@ -1,0 +1,20 @@
+body{
+    background-color: #eaf6f6;
+
+}
+hr{
+    background-color: #eaf6f6;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    height: 0px;
+/*we use %, as we use website sometime in phone &other devices*/
+    width: 7%;
+}
+h1{
+    color: #66BFBF;
+}
+h3{
+    color: #66BFBF; 
+}
